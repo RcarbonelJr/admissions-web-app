@@ -23,14 +23,14 @@ This is a simple web application that demonstrates **multi-tenancy**. The applic
 
 2. Once you're inside the project directory, build the Docker image by running:
    ```bash
-   docker build -t multi-tenant-web-app .
+   docker build -t admissions-web-app .
    ```
 
 ### Step 3: Run the Docker Container
 
 3. After the image is built, run the container with the following command:
    ```bash
-   docker run -p 3000:3000 multi-tenant-web-app
+   docker run -p 3000:3000 admissions-web-app
    ```
    This will start the application inside the container, and it will be accessible at [http://localhost:3000](http://localhost:3000).
 
