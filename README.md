@@ -7,7 +7,6 @@ This is a simple web application that demonstrates **multi-tenancy**. The applic
 ## Requirements
 
 - **Docker**: Ensure that Docker is installed and running on your system.
-- **Node.js**: Only required if you're testing without Docker (not necessary for this assignment, as we're using Docker).
 
 ## Installation
 
